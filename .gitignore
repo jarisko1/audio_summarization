@@ -3,3 +3,4 @@
 data/*.mp3
 data/*.json
 data/*.md
+__pycache__

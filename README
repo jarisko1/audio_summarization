@@ -1,3 +1,16 @@
+# New use case - Audio player with AI generated notes
+Play local files and press button when you want AI to generate summary of that part of the audio.
+
+## Currently implemented
+- Very basic Python audio player with button that triggers note creation
+- Transcription and summarization of the note via Azure AI
+
+## Goal
+Android application that will allow offline listening to downloaded podcasts and will locally save user-selected interest points in the podcasts.
+Once connected to the internet, summary of the selected interest points will be generated.
+
+---
+
 # Sumarize content of an audio file
 Place the mp3 file to `data` folder and execute the notebook `summarize_audio.ipynb`.
 At this moment, whole process is covered in that notebook, including Python libraries and there is no `requirements.txt` file.
