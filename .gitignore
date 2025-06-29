@@ -1,1 +1,4 @@
 .venv
+.env
+data/*.mp3
+data/*.json
