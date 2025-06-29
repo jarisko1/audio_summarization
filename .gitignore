@@ -2,3 +2,4 @@
 .env
 data/*.mp3
 data/*.json
+data/*.md
