@@ -1,0 +1,2 @@
+# Sumarize content of audio file
+- Place the mp3 file to `data` folder and execute the notebook `summarize_audio.ipynb`
